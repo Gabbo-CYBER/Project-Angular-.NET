@@ -1,0 +1,7 @@
+C:\Users\gabry\Project Angular\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gabry\Project Angular\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabry\Project Angular\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\gabry\Project Angular\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\gabry\Project Angular\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Project Angular\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabry\Project Angular\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.MvcApplicationPartsAssemblyInfo.cache
