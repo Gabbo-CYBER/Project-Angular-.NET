@@ -17,7 +17,7 @@ public class Program
         {
             options.AddPolicy("AllowFrontend", policy =>
             {
-                policy.WithOrigins("http://localhost:4200")  // Porta predefinita di Angular
+                policy.WithOrigins("http://localhost:4200/")  // Porta predefinita di Angular
                       .AllowAnyHeader()
                       .AllowAnyMethod();
             });
