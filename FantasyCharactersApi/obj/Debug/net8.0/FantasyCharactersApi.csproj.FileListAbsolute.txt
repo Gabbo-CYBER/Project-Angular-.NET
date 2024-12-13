@@ -32,6 +32,7 @@ C:\Users\gabry\Project Angular\Project-Angular\Project-Angular-.NET\FantasyChara
 C:\Users\gabry\Project Angular\Project-Angular\Project-Angular-.NET\FantasyCharactersApi\obj\Debug\net8.0\FantasyCharactersApi.pdb
 C:\Users\gabry\Project Angular\Project-Angular\Project-Angular-.NET\FantasyCharactersApi\obj\Debug\net8.0\FantasyCharactersApi.genruntimeconfig.cache
 C:\Users\gabry\Project Angular\Project-Angular\Project-Angular-.NET\FantasyCharactersApi\obj\Debug\net8.0\ref\FantasyCharactersApi.dll
+<<<<<<< HEAD
 C:\Users\gabry\Project Angular\FantasyCharactersApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\gabry\Project Angular\FantasyCharactersApi\bin\Debug\net8.0\appsettings.json
 C:\Users\gabry\Project Angular\FantasyCharactersApi\bin\Debug\net8.0\FantasyCharactersApi.exe
@@ -66,3 +67,5 @@ C:\Users\gabry\Project Angular\FantasyCharactersApi\obj\Debug\net8.0\refint\Fant
 C:\Users\gabry\Project Angular\FantasyCharactersApi\obj\Debug\net8.0\FantasyCharactersApi.pdb
 C:\Users\gabry\Project Angular\FantasyCharactersApi\obj\Debug\net8.0\FantasyCharactersApi.genruntimeconfig.cache
 C:\Users\gabry\Project Angular\FantasyCharactersApi\obj\Debug\net8.0\ref\FantasyCharactersApi.dll
+=======
+>>>>>>> 242b050a4a0ea98cc4fa1411ee5256fab0818237
