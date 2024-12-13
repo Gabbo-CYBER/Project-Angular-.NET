@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "hWLRwDZ9PZQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\gabry\\Project Angular\\FantasyCharactersApi\\FantasyCharactersApi.csproj",
-=======
-  "dgSpecHash": "rxbSTbaoTdY=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\gabry\\Project Angular\\Project-Angular\\Project-Angular-.NET\\FantasyCharactersApi\\FantasyCharactersApi.csproj",
->>>>>>> 242b050a4a0ea98cc4fa1411ee5256fab0818237
   "expectedPackageFiles": [
     "C:\\Users\\gabry\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.11\\microsoft.aspnetcore.openapi.8.0.11.nupkg.sha512",
     "C:\\Users\\gabry\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

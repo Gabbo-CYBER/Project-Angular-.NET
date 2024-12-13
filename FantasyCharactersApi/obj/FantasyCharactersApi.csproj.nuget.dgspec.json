@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\gabry\\Project Angular\\FantasyCharactersApi\\FantasyCharactersApi.csproj": {}
   },
   "projects": {
@@ -13,19 +12,6 @@
         "projectPath": "C:\\Users\\gabry\\Project Angular\\FantasyCharactersApi\\FantasyCharactersApi.csproj",
         "packagesPath": "C:\\Users\\gabry\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\gabry\\Project Angular\\FantasyCharactersApi\\obj\\",
-=======
-    "C:\\Users\\gabry\\Project Angular\\Project-Angular\\Project-Angular-.NET\\FantasyCharactersApi\\FantasyCharactersApi.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\gabry\\Project Angular\\Project-Angular\\Project-Angular-.NET\\FantasyCharactersApi\\FantasyCharactersApi.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\gabry\\Project Angular\\Project-Angular\\Project-Angular-.NET\\FantasyCharactersApi\\FantasyCharactersApi.csproj",
-        "projectName": "FantasyCharactersApi",
-        "projectPath": "C:\\Users\\gabry\\Project Angular\\Project-Angular\\Project-Angular-.NET\\FantasyCharactersApi\\FantasyCharactersApi.csproj",
-        "packagesPath": "C:\\Users\\gabry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabry\\Project Angular\\Project-Angular\\Project-Angular-.NET\\FantasyCharactersApi\\obj\\",
->>>>>>> 242b050a4a0ea98cc4fa1411ee5256fab0818237
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabry\\AppData\\Roaming\\NuGet\\NuGet.Config"
